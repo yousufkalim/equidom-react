@@ -1,5 +1,5 @@
 {
-  "name": "React-App",
+  "name": "Equidom",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,8 +35,8 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "Equidom",
+      "Equidom/jest"
     ]
   },
   "browserslist": {
